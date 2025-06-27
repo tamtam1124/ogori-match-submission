@@ -89,9 +89,9 @@ OGORI MATCHは、Google CloudのAIサービスとFirebaseを駆使し、以下�
 
 本プロダクトは、FlutterとFirebaseを中心としたモダンなサーバーレスアーキテクチャで構築されています。主要な処理はFirebase FunctionsとVertex AIが連携して実行します。
 
-![image.png](attachment:7a963b35-f073-4ebb-9196-0dc1bf1c8266:image.png)
+![image](https://github.com/user-attachments/assets/462284f8-9846-48f7-a9b9-cb73b5cc7ee5)
 
-![(pre)ogori-match.drawio (3).png](attachment:cb0fd980-2beb-4e3b-9d7c-ab17f99158a6:(pre)ogori-match.drawio_(3).png)
+![(pre)ogori-match drawio (3)](https://github.com/user-attachments/assets/a3d63fe8-37f1-428b-b6f1-5c1cf2e257b3)
 
 ---
 
