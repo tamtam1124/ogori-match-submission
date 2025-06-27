@@ -2,13 +2,13 @@
 
 # OGORI MATCH (おごりマッチング)
 
-[ここにプロダクトの魅力が伝わるスクリーンショットを1〜3枚挿入してください]
+
 
 ### 「社長のおごり自販機」をきっかけに、社内の見えない壁を壊す。
 
 OGORI MATCHは、普段接点のない社員同士をリアルタイムでマッチングし、偶発的な出会いとコミュニケーションを創出するプラットフォームです。
 
-**[疑わしいリンクは削除されました]**
+https://zenn.dev/hackathons/google-cloud-japan-ai-hackathon-vol2
 
 この記事は、Google Cloud Japan AI Hackathon Vol.2の提出物として作成されました。
 
@@ -120,12 +120,6 @@ OGORI MATCHは、Google CloudのAIサービスとFirebaseを駆使し、以下�
 - **言語 (Functions):** TypeScript
 - **バージョン管理:** Git & GitHub
 - **コード品質:** ESLint, Prettier
-
----
-
-## リポジトリ構成
-
-？？？？
 
 ---
 
