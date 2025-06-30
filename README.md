@@ -169,9 +169,9 @@ OGORI MATCHは、Google CloudのAIサービスとFirebaseを駆使し、以下�
 
 初学者ならではの視点とAIとの協業が、私たちの強みです。
 
-- **メンバー1の名前** ([@GitHubアカウント](https://www.google.com/search?q=https://github.com/your-account))
-- **メンバー2の名前** ([@GitHubアカウント](https://www.google.com/search?q=https://github.com/your-account))
-- **メンバー3の名前** ([@GitHubアカウント](https://www.google.com/search?q=https://github.com/your-account))
+- **tamtam1124** ([@tamtam1124](https://github.com/tamtam1124))
+- **kon0605** ([@kon0605](https://github.com/kon0605))
+- **Maroon-51210** ([@Maroon-51210](https://github.com/Maroon-51210))
 
 ---
 
